@@ -15,7 +15,7 @@ A simple, command-line Python application to manage tasks with priorities and de
    - Clone or download this repository.
    - Navigate to the project folder in your terminal.
 3. **Run the Program**:
-   - Type `python todo.py` (replace `todo.py` with the actual filename).
+   - Type `python task.py` (replace `task.py` with the actual filename).
 4. **Interact**:
    - Choose from the menu:
      - `1`: Add a new task.
